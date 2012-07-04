@@ -1,9 +1,8 @@
 <snippet>
-  <content><![CDATA[
--webkit-border-radius: ${1:3}px;
-   -moz-border-radius: ${1:3}px;
-        border-radius: ${1:3}px;
+	<content><![CDATA[border-radius: $1;
+
 ]]></content>
-  <tabTrigger>border-radius</tabTrigger>
-  <scope>source.css</scope>
+	<tabTrigger>bor</tabTrigger>
+    <description>CSS - border-radius: ;</description>
+    <scope>source.css</scope>
 </snippet>
